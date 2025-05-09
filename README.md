@@ -20,7 +20,7 @@ I pulled playlists four  from the Spotify API curated by music labels and enrich
   - tempo (BPM)
   - speechiness (measure of spoken words)
   - instrumentalness (measure of how instrumental the track is)
-- ~~✅ Generated an enriched CSV output file containing:
-  - Original track details (name, artist, playlist)
-  - Additional metadata (track ID, explicit flag, duration)
-  - Audio features (key, mode, tempo, speechiness, instrumentalness)~~
+- ✅ ~~Generated an enriched CSV output file containing:~~
+  - ~~Original track details (name, artist, playlist)~~
+  - ~~Additional metadata (track ID, explicit flag, duration)~~
+  - ~~Audio features (key, mode, tempo, speechiness, instrumentalness)~~
