@@ -3,7 +3,7 @@ After lots of troubleshotting and continuously receiving a 403 error when trying
 
 # 🎧 Spotify Playlist Data Enrichment with Audio Features
 
-I pulled playlists four  from the Spotify API curated by music labels and enriched them with additional audio features.
+I pulled four little playlists from the Spotify API curated by music labels and enriched them with additional audio features.
 
 ## 📌 Project Summary
 - ✅ Loaded data from 4 Spotify playlists containing tracks with:
